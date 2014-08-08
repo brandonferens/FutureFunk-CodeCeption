@@ -45,7 +45,7 @@
                     <key>fontStyle</key>
                     <string />
                     <key>foreground</key>
-                    <string>#666</string>
+                    <string>#647B81</string>
                 </dict>
             </dict>
             <dict>
@@ -141,7 +141,7 @@
                     <key>fontStyle</key>
                     <string>bold</string>
                     <key>foreground</key>
-                    <string>#666</string>
+                    <string>#647B81</string>
                 </dict>
             </dict>
             <dict>
@@ -152,7 +152,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#666</string>
+                    <string>#647B81</string>
                 </dict>
             </dict>
             <dict>
@@ -163,7 +163,10 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
+<<<<<<< Updated upstream
                     <string>#ccc</string>
+=======
+                    <string>#60A0B0</string>
                 </dict>
             </dict>
             <dict>
@@ -779,7 +782,10 @@
                     <key>fontStyle</key>
                     <string />
                     <key>foreground</key>
+<<<<<<< Updated upstream
                     <string>#66</string>
+=======
+                    <string>#647B81</string>
                 </dict>
             </dict>
             <dict>
@@ -856,7 +862,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#666</string>
+                    <string>#647B81</string>
                 </dict>
             </dict>
             <dict>
